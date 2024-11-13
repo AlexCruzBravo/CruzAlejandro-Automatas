@@ -1,0 +1,2 @@
+Estados,Alfabeto,Transiciones,Estado Inicial,Estados de Aceptación
+"['X', 'Y']","['1', '0']","{'X': {'1': 'Y', '0': 'X'}, 'Y': {'1': 'Y', '0': 'X'}}",X,['Y']
